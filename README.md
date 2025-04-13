@@ -8,6 +8,8 @@ The goal is to enhance user experience by providing personalized grocery recomme
 
 ## 🚀 Project Overview
 
+![ROC](https://github.com/user-attachments/assets/092697d2-afc7-45b6-aaba-bda3fa846e9c)
+
 A machine learning system that predicts whether customers will reorder grocery items based on their purchase history. Built for the Instacart Market Basket Analysis challenge, this project compares three classification models to deliver personalized recommendations.
 
 ## 📊 Key Features
@@ -18,6 +20,7 @@ A machine learning system that predicts whether customers will reorder grocery i
 - **Optimal Model**: Logistic Regression achieved best balance (AUC-ROC: 0.70)
 
 ## 🏆 Results Summary
+![Accuracy of Models](https://github.com/user-attachments/assets/f8d18b73-3232-46bb-8871-0c1f2250ed5a)
 
 | Model            | Accuracy | Precision | Recall | AUC-ROC |
 |------------------|----------|-----------|--------|---------|
